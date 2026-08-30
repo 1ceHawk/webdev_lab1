@@ -1,3 +1,3 @@
 # Webdev_lab1
 
-![HTML Validation Screenshot](Screenshot 2026-08-30175750.png) 
+![HTML Validation Screenshot](Screenshot_2026-08-30_175750.png) 
